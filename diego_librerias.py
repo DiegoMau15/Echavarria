@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1XWGGDAKsZ6SWG_ToYlz5y68-wKNitpTE
 """
 
-import diego_y_santi as falcon
+import diego as falcon
 falcon.es_par_o_impar(10)
 falcon.saludar_por_nombre()
 falcon.calcular_area_circulo(5)
